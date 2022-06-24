@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Project-Todo-FGA/static/css/main.e6c13ad2.css",
+    "main.js": "/Project-Todo-FGA/static/js/main.fa945159.js",
+    "static/js/787.c5714af7.chunk.js": "/Project-Todo-FGA/static/js/787.c5714af7.chunk.js",
+    "index.html": "/Project-Todo-FGA/index.html",
+    "main.e6c13ad2.css.map": "/Project-Todo-FGA/static/css/main.e6c13ad2.css.map",
+    "main.fa945159.js.map": "/Project-Todo-FGA/static/js/main.fa945159.js.map",
+    "787.c5714af7.chunk.js.map": "/Project-Todo-FGA/static/js/787.c5714af7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.fa945159.js"
+  ]
+}
